@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hey there, I'm Phoonge Aung! 👋💻
+# Hey there, I'm Phoo Nge Nge Aung! 👋💻
 
 ### 🎓 Computer Science Graduate | 💻 Aspiring Software Developer
 
