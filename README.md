@@ -6,18 +6,8 @@
 
 Welcome to my GitHub corner! ✨
 
-I'm a Computer Science graduate from the **University of Sunderland**, passionate about software development, problem-solving, and building useful applications. I'm currently growing my skills in backend development and exploring opportunities to start my career in software engineering.
-
----
-
 ## 🌸 About Me
-
-- 🎓 Graduated in Computer Science from the University of Sunderland
-- ☕ Interested in Java, Spring Boot, and backend development
-- 🗄️ Enjoy working with databases and developing web applications
-- 🚀 Built an online e-learning platform as my final-year project
-- 🌱 Currently improving my software development and problem-solving skills
-- 🇬🇧 Exploring graduate and junior software developer opportunities in the UK
+I'm a Computer Science graduate from the **University of Sunderland**, passionate about software development, problem-solving, and building useful applications. I'm currently growing my skills in backend development and exploring opportunities to start my career in software engineering.
 
 ---
 
